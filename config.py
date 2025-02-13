@@ -1,23 +1,23 @@
-API_ID = 123456  # api id
-API_HASH = "ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # api hash
+API_ID = 20180361  # api id
+API_HASH = "909fa0668ed7e9ec87fb7979f6a2d376"  # api hash
 
-BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+BOT_TOKEN = ""  # bot token
 
 
 # REDIS
-HOST = "localhost"  # redis host uri
+HOST = "redis-cli -u redis://default:ot23phzYklwwox1PZhZdUTCN4rxBVb9x@redis-11499.crce179.ap-south-1-1.ec2.redns.redis-cloud.com:11499"  # redis host uri
 PORT = 6379  # redis port
-PASSWORD = ""  # redis password
+PASSWORD = "ot23phzYklwwox1PZhZdUTCN4rxBVb9x"  # redis password
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1002443758995  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
-COOKIE = ""
-ADMINS = [1317173146]
+COOKIE = "https://terabox-player.rishu-api.workers.dev/?url=https://terabox.com/s/1kpYz6J8xalpQtoDk4DH8Aw"
+ADMINS = [6644473960]
 
 
-BOT_USERNAME = "teraboxdown_bot"
+BOT_USERNAME = "Jk_file_storebot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@RoldexVerse"
+FORCE_LINK = "@jk_bot_area"
 
 PUBLIC_EARN_API = ""  # https://publicearn.com/api
