@@ -11,7 +11,7 @@ PASSWORD = "ot23phzYklwwox1PZhZdUTCN4rxBVb9x"  # redis password
 
 PRIVATE_CHAT_ID = -1002443758995  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
-COOKIE = "https://terabox-player.rishu-api.workers.dev/?url=https://terabox.com/s/1kpYz6J8xalpQtoDk4DH8Aw"
+COOKIE = ""
 ADMINS = [6644473960]
 
 
